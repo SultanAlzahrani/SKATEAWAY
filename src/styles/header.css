@@ -1,0 +1,143 @@
+.product-link-3 {
+  text-decoration: none;
+  color: black;
+}
+
+.Header {
+  border-bottom: 2px solid;
+  border-bottom-color: lightgray;
+  padding: 1rem 2rem;
+}
+.Header-section-1 {
+  text-align: end;
+  margin-right: 1rem;
+}
+
+.Header-section-2 {
+}
+.section-2-left-child {
+  flex: 1;
+}
+.Categories-container {
+  gap: 1rem;
+  font-size: 0.8rem;
+  align-items: end;
+}
+
+.logo-container {
+  gap: 1rem;
+}
+.logo {
+  max-width: 13rem;
+}
+
+.shopping-cart-container {
+  align-items: end;
+  justify-content: center;
+  width: fit-content;
+}
+.shopping-cart-container span {
+  background-color: rgb(214, 213, 213);
+  padding: 0.1rem 0.7rem;
+  border-radius: 1rem;
+}
+.shopping-cart-icon {
+  max-width: 2rem;
+}
+.Cart-1.shopping-cart-container.flex-row {
+  display: none;
+}
+
+.Header-strap {
+  background-color: black;
+  color: white;
+
+  font-size: 0.8rem;
+  font-weight: 500;
+  padding: 0.3rem;
+
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+/* NavBar */
+
+.custom-navbar {
+  display: flex !important;
+  align-items: flex-end !important;
+  justify-content: flex-end !important;
+  padding: 0 !important;
+  padding-right: 10px !important;
+
+  width: 100%;
+}
+.custom-navbar:last-child {
+  align-items: flex-end !important;
+  justify-content: flex-end !important;
+}
+
+/* Media */
+
+@media (max-width: 750px) {
+  .Header {
+    padding: 0.2rem 0.2rem;
+  }
+
+  .Header-section-2 {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  .logo-container {
+  }
+
+  .Header-section-1 {
+    display: none;
+  }
+  .section-2-left-child:last-child {
+  }
+
+  .shopping-cart-container {
+    margin-right: 1rem;
+    align-items: end;
+    justify-content: end;
+  }
+
+  .Cart-1.shopping-cart-container.flex-row {
+    display: flex;
+  }
+
+  .Cart-2.shopping-cart-container.flex-row {
+    display: none;
+  }
+
+  /* Nav */
+  .custom-navbar {
+    width: 100% !important;
+    justify-content: space-between !important;
+  }
+
+  .custom-end-align {
+    width: 100%;
+    align-items: flex-start !important;
+    justify-content: flex-start !important;
+  }
+  .custom-end-align:last-child {
+    align-items: center !important;
+    justify-content: center !important;
+  }
+
+  .navbar-nav a {
+    display: flex !important;
+
+    align-items: center !important;
+    justify-content: center !important;
+    padding: 0.2rem !important;
+    font-size: 1.2rem !important;
+  }
+}

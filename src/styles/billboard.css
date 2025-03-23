@@ -1,0 +1,49 @@
+.Billboard-container {
+  max-height: 600px;
+}
+
+.right-img {
+  width: 100%;
+  object-fit: cover;
+}
+.middle-img {
+  display: none;
+}
+
+/* .heading-container {
+  
+} */
+.main-heading {
+  font-size: 3rem;
+  font-weight: 1000;
+  margin: 0;
+}
+.link-as-button-1 {
+  width: fit-content;
+  background-color: black;
+  color: white;
+  font-size: 0.7rem;
+
+  padding: 0.4rem 0.8rem;
+  border-radius: 0.3rem;
+  text-decoration: none;
+}
+/* Media stuff */
+
+@media (max-width: 750px) {
+  .right-img,
+  .left-img {
+    object-fit: contain;
+  }
+  .right-img {
+    display: none;
+  }
+  .middle-img {
+    display: block;
+    width: 100%;
+    object-fit: contain;
+  }
+  .Left-img {
+    display: none;
+  }
+}

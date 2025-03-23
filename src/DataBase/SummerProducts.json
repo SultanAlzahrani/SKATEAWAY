@@ -1,0 +1,182 @@
+{
+  "products": [
+    {
+      "id": 53,
+      "name": "Break Made T-Shirt",
+      "description": "The Break Made T-Shirt is a classic fit, short sleeve crew neck T-shirt made of breathable cotton with a screenprinted Vans® logo graphic on the front and back.",
+      "price": 35,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Clothing",
+      "rating": 4,
+      "color": "Black",
+      "imgs": [
+        "/assets/products/Clothing/8/1.webp",
+        "/assets/products/Clothing/8/2.webp",
+        "/assets/products/Clothing/8/3.webp",
+        "/assets/products/Clothing/8/4.webp"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "forSkate": true
+    },
+    {
+      "id": 54,
+      "name": "Westfield Shacket",
+      "description": "With plenty of pockets for style and stashing stuff, the Westfield Shacket melds the best parts of a shirt and jacket to help you ease into colder weather. Featuring corduroy fabrication made of a stretch cotton with a wash dye, the loose fit allows plenty of room for maximum coziness.",
+      "price": 85,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Clothing",
+      "rating": 4.5,
+      "color": "Dress Blues",
+      "imgs": [
+        "/assets/products/Clothing/9/1.webp",
+        "/assets/products/Clothing/9/2.webp",
+        "/assets/products/Clothing/9/3.webp",
+        "/assets/products/Clothing/9/4.webp"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "forSkate": false
+    },
+    {
+      "id": 55,
+      "name": "Wade Checkerboard Woven Shirt",
+      "description": "Rock our iconic checkerboard print in an all new hue in the Wade Checkerboard Woven Shirt, a breezy cotton collared buttondown in a looser fit for comfort and movability. A patch pocket on the chest tops off this top in style.",
+      "price": 55,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Clothing",
+      "rating": 4.5,
+      "color": "Dress Blues/White",
+      "imgs": [
+        "/assets/products/Clothing/10/1.webp",
+        "/assets/products/Clothing/10/2.webp",
+        "/assets/products/Clothing/10/3.webp",
+        "/assets/products/Clothing/10/4.jpg"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "forSkate": false
+    },
+    {
+      "id": 31,
+      "name": "Data System Strapback Hat",
+      "description": "The Data System Hat is a 5-panel cap made of durable cotton, featuring a strap back closure and direct embroidery on the side.",
+      "price": 28,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Accessories",
+      "rating": 3,
+      "color": "Red",
+      "imgs": [
+        "/assets/products/accessories/1/1.webp",
+        "/assets/products/accessories/1/2.webp",
+        "/assets/products/accessories/1/3.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": true
+    },
+    {
+      "id": 32,
+      "name": "Half Box Curved Bill Jockey Hat",
+      "description": "The Half Box Curved Bill Jockey Hat is a 6-panel jockey hat featuring direct logo embroidery of the the Vans® logo front and center for a fashionable statement.",
+      "price": 40,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Accessories",
+      "rating": 4,
+      "color": "Dress Blues",
+      "imgs": [
+        "/assets/products/accessories/2/1.webp",
+        "/assets/products/accessories/2/2.webp",
+        "/assets/products/accessories/2/3.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": true
+    },
+    {
+      "id": 3,
+      "name": "Old Skool Shoe",
+      "description": "The Iconic Shoe that Brought our Sidestripe to Life: This is the Old Skool. First unveiled back in 1977, the Vans Old Skool has been near the top of the bestseller list ever since thanks to its classic fit and instantly recognizable design. This black and navy version takes the Classic look and brings up a notch, allowing the twin shimmer of black and navy to breathe new life into the shoe. Reinforced toe caps, supportive padded colors, and the signature rubber waffle outsoles take care of the practical side, while the color speaks for itself. The Old Skool Primary is the obvious choice for anyone looking to bridge the divide between iconic and innovative.",
+      "price": 70,
+      "isTrendy": false,
+      "isNew": true,
+      "forKids": false,
+      "forSkate": false,
+      "genre": "Shoe",
+      "rating": 4,
+      "color": "Black/Blue",
+      "imgs": [
+        "/assets/products/Shoes/3/VN000D3H_NVY_HERO.webp",
+        "/assets/products/Shoes/3/VN000D3H_NVY_ALT2.webp",
+        "/assets/products/Shoes/3/VN000D3H_NVY_ALT3.webp",
+        "/assets/products/Shoes/3/VN000D3H_NVY_ALT1.webp"
+      ],
+      "sizes": [3, 4, 5, 6, 7, 7.5, 8, 9, 9.5, 10, 10.5, 11, 12, 13]
+    },
+    {
+      "id": 4,
+      "name": "Old Skool Shoe",
+      "description": "Bold, Fresh Colors Energize our Original Sidestripe Shoe. The Color Theory Collection allows you to create a unique color story by pairing vibrant, unexpected hues with our iconic footwear styles. Made with a classic pairing of canvas and suede, this Old Skool honors our heritage Sidestripe silhouette while offering a fresh look that boosts the appeal of this unmistakable shoe.",
+      "price": 40,
+      "isTrendy": false,
+      "isNew": true,
+      "forKids": false,
+      "forSkate": false,
+      "genre": "Shoe",
+      "rating": 4,
+      "color": "Bungee Cord",
+      "imgs": [
+        "/assets/products/Shoes/4/VN0005UF_9JC_HERO.jpg",
+        "/assets/products/Shoes/4/VN0005UF_9JC_ALT2.jpg",
+        "/assets/products/Shoes/4/VN0005UF_9JC_ALT2.webp",
+        "/assets/products/Shoes/4/VN0005UF_9JC_ALT4.webp"
+      ],
+      "sizes": [3, 4, 5, 6, 7, 7.5, 8, 9, 9.5, 10, 10.5, 11, 12, 13]
+    },
+    {
+      "id": 5,
+      "name": "Old Skool Shoe",
+      "description": "The Old Skool was our first footwear design to showcase the famous Vans Sidestripe—although back then, it was just a simple doodle drawn by founder Paul Van Doren. Since its debut in 1977, this low-top silhouette has established itself as an icon in the skate, music, and fashion scenes. From 90s street skaters and punks to current hip hop and fashion legends, the Old Skool has consistently been the go-to shoe for creatives who do things their own way. Add in a scattering of denim stars, and make your path your own.",
+      "price": 80,
+      "isTrendy": false,
+      "isNew": true,
+      "forKids": false,
+      "forSkate": true,
+      "genre": "Shoe",
+      "rating": 4,
+      "color": "Starry Night Denim",
+      "imgs": [
+        "/assets/products/Shoes/5/VN000CR5_DNM_HERO.webp",
+        "/assets/products/Shoes/5/VN000CR5_DNM_ALT1.webp",
+        "/assets/products/Shoes/5/VN000CR5_DNM_ALT2.webp",
+        "/assets/products/Shoes/5/VN000CR5_DNM_ALT3.webp"
+      ],
+      "sizes": [3, 4, 5, 6, 7, 7.5, 8, 9, 9.5, 10, 10.5, 11, 12, 13]
+    },
+    {
+      "id": 6,
+      "name": "Old Skool Flame Shoe",
+      "description": "The Old Skool was our first footwear design to showcase the famous Vans Sidestripe—although back then, it was just a simple doodle drawn by founder Paul Van Doren. Since its debut in 1977, this low-top silhouette has established itself as an icon in the skate, music, and fashion scenes. From 90s street skaters and punks to current hip hop and fashion legends, the Old Skool has consistently been the go-to shoe for creatives who do things their own way. Add in a scattering of denim stars, and make your path your own.",
+      "price": 80,
+      "isTrendy": false,
+      "isNew": true,
+      "forKids": false,
+      "forSkate": false,
+      "genre": "Shoe",
+      "rating": 4,
+      "color": "Black/White",
+      "imgs": [
+        "/assets/products/Shoes/6/VN0A38G1_K68_HERO.webp",
+        "/assets/products/Shoes/6/VN0A38G1_K68_ALT3.webp",
+        "/assets/products/Shoes/6/VN0A38G1_K68_ALT2.webp",
+        "/assets/products/Shoes/6/VN0A38G1_K68_ALT1.webp"
+      ],
+      "sizes": [3, 4, 5, 6, 7, 7.5, 8, 9, 9.5, 10, 10.5, 11, 12, 13]
+    }
+  ]
+}

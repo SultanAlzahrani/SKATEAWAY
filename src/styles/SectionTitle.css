@@ -1,0 +1,14 @@
+.Section-Title {
+  width: 100%;
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 750px) {
+  .Section-Title {
+    font-size: 1.2rem;
+    margin-top: 2rem;
+  }
+}

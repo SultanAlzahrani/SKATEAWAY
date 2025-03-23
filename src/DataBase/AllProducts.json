@@ -1,0 +1,1223 @@
+{
+  "Products": [
+    {
+      "id": 0,
+      "name": "Shoes 1",
+      "description": "Very sexy, Sleek, silly, and awesome for anyone looking for clout!",
+      "price": 4.0,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "forSkate": false,
+      "genre": "Shoe",
+      "rating": 3,
+      "color": "pink/black",
+      "imgs": [
+        "/assets/products/Shoes/unisex/pinkshoe.webp",
+        "/assets/products/Shoes/unisex/pinkshoe.webp"
+      ],
+      "sizes": [1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "id": 1,
+      "name": "Old Skool Canvas Shoe",
+      "description": "The Iconic Shoe that Brought our Sidestripe to Life: This is the Old Skool The Old Skool was our first footwear design to showcase the famous Vans Sidestripe—although back then, it was just a random doodle drawn by founder Paul Van Doren. Since its debut in 1977, this low-top silhouette has established itself as an icon in the skate, music, and fashion scenes. From 90s street skaters and punks to current hip hop and fashion legends, the Old Skool Cavnas has consistently been the go-to shoe for creatives who do things their own way.",
+      "price": 70,
+      "isTrendy": true,
+      "isNew": true,
+      "forKids": false,
+      "forSkate": true,
+      "genre": "Shoe",
+      "rating": 4,
+      "color": "Red",
+      "imgs": [
+        "/assets/products/Shoes/1/VN0A4BV5_JV6_HERO.webp",
+        "/assets/products/Shoes/1/VN0A4BV5_JV6_ALT1.webp",
+        "/assets/products/Shoes/1/VN0A4BV5_JV6_ALT2.webp",
+        "/assets/products/Shoes/1/VN0A4BV5_JV6_ALT3.webp"
+      ],
+      "sizes": [3, 4, 5, 6, 7, 7.5, 8, 9, 9.5, 10, 10.5, 11, 12, 13]
+    },
+    {
+      "id": 2,
+      "name": "Sport Low Shoe",
+      "description": "A Streamlined Shoe that Keeps the 90s Alive. Taking inspiration from Vans’ 90s heritage styles, the Sport Low is a new interpretation of the original Skate Vans Sport. From the lower open collar and extended tongue to the standout “V” Sidestripe, this vulcanized low top shoe perfectly blends a skate-inspired look with unique retro details.",
+      "price": 70,
+      "isTrendy": true,
+      "isNew": true,
+      "forKids": false,
+      "forSkate": true,
+      "genre": "Shoe",
+      "rating": 4,
+      "color": "Tri-Tone Atmosphere",
+      "imgs": [
+        "/assets/products/Shoes/2/VN000D09_HCZ_HERO.webp",
+        "/assets/products/Shoes/2/VN000D09_HCZ_ALT1.webp",
+        "/assets/products/Shoes/2/VN000D09_HCZ_ALT2.webp",
+        "/assets/products/Shoes/2/VN000D09_HCZ_ALT3.webp"
+      ],
+      "sizes": [3, 4, 5, 6, 7, 7.5, 8, 9, 9.5, 10, 10.5, 11, 12, 13]
+    },
+    {
+      "id": 3,
+      "name": "Old Skool Shoe",
+      "description": "The Iconic Shoe that Brought our Sidestripe to Life: This is the Old Skool. First unveiled back in 1977, the Vans Old Skool has been near the top of the bestseller list ever since thanks to its classic fit and instantly recognizable design. This black and navy version takes the Classic look and brings up a notch, allowing the twin shimmer of black and navy to breathe new life into the shoe. Reinforced toe caps, supportive padded colors, and the signature rubber waffle outsoles take care of the practical side, while the color speaks for itself. The Old Skool Primary is the obvious choice for anyone looking to bridge the divide between iconic and innovative.",
+      "price": 70,
+      "isTrendy": false,
+      "isNew": true,
+      "forKids": false,
+      "forSkate": false,
+      "genre": "Shoe",
+      "rating": 4,
+      "color": "Black/Blue",
+      "imgs": [
+        "/assets/products/Shoes/3/VN000D3H_NVY_HERO.webp",
+        "/assets/products/Shoes/3/VN000D3H_NVY_ALT2.webp",
+        "/assets/products/Shoes/3/VN000D3H_NVY_ALT3.webp",
+        "/assets/products/Shoes/3/VN000D3H_NVY_ALT1.webp"
+      ],
+      "sizes": [3, 4, 5, 6, 7, 7.5, 8, 9, 9.5, 10, 10.5, 11, 12, 13]
+    },
+    {
+      "id": 4,
+      "name": "Old Skool Shoe",
+      "description": "Bold, Fresh Colors Energize our Original Sidestripe Shoe. The Color Theory Collection allows you to create a unique color story by pairing vibrant, unexpected hues with our iconic footwear styles. Made with a classic pairing of canvas and suede, this Old Skool honors our heritage Sidestripe silhouette while offering a fresh look that boosts the appeal of this unmistakable shoe.",
+      "price": 40,
+      "isTrendy": false,
+      "isNew": true,
+      "forKids": false,
+      "forSkate": false,
+      "genre": "Shoe",
+      "rating": 4,
+      "color": "Bungee Cord",
+      "imgs": [
+        "/assets/products/Shoes/4/VN0005UF_9JC_HERO.jpg",
+        "/assets/products/Shoes/4/VN0005UF_9JC_ALT2.jpg",
+        "/assets/products/Shoes/4/VN0005UF_9JC_ALT2.webp",
+        "/assets/products/Shoes/4/VN0005UF_9JC_ALT4.webp"
+      ],
+      "sizes": [3, 4, 5, 6, 7, 7.5, 8, 9, 9.5, 10, 10.5, 11, 12, 13]
+    },
+    {
+      "id": 5,
+      "name": "Old Skool Shoe",
+      "description": "The Old Skool was our first footwear design to showcase the famous Vans Sidestripe—although back then, it was just a simple doodle drawn by founder Paul Van Doren. Since its debut in 1977, this low-top silhouette has established itself as an icon in the skate, music, and fashion scenes. From 90s street skaters and punks to current hip hop and fashion legends, the Old Skool has consistently been the go-to shoe for creatives who do things their own way. Add in a scattering of denim stars, and make your path your own.",
+      "price": 80,
+      "isTrendy": false,
+      "isNew": true,
+      "forKids": false,
+      "forSkate": true,
+      "genre": "Shoe",
+      "rating": 4,
+      "color": "Starry Night Denim",
+      "imgs": [
+        "/assets/products/Shoes/5/VN000CR5_DNM_HERO.webp",
+        "/assets/products/Shoes/5/VN000CR5_DNM_ALT1.webp",
+        "/assets/products/Shoes/5/VN000CR5_DNM_ALT2.webp",
+        "/assets/products/Shoes/5/VN000CR5_DNM_ALT3.webp"
+      ],
+      "sizes": [3, 4, 5, 6, 7, 7.5, 8, 9, 9.5, 10, 10.5, 11, 12, 13]
+    },
+    {
+      "id": 6,
+      "name": "Old Skool Flame Shoe",
+      "description": "The Old Skool was our first footwear design to showcase the famous Vans Sidestripe—although back then, it was just a simple doodle drawn by founder Paul Van Doren. Since its debut in 1977, this low-top silhouette has established itself as an icon in the skate, music, and fashion scenes. From 90s street skaters and punks to current hip hop and fashion legends, the Old Skool has consistently been the go-to shoe for creatives who do things their own way. Add in a scattering of denim stars, and make your path your own.",
+      "price": 80,
+      "isTrendy": false,
+      "isNew": true,
+      "forKids": false,
+      "forSkate": false,
+      "genre": "Shoe",
+      "rating": 4,
+      "color": "Black/White",
+      "imgs": [
+        "/assets/products/Shoes/6/VN0A38G1_K68_HERO.webp",
+        "/assets/products/Shoes/6/VN0A38G1_K68_ALT3.webp",
+        "/assets/products/Shoes/6/VN0A38G1_K68_ALT2.webp",
+        "/assets/products/Shoes/6/VN0A38G1_K68_ALT1.webp"
+      ],
+      "sizes": [3, 4, 5, 6, 7, 7.5, 8, 9, 9.5, 10, 10.5, 11, 12, 13]
+    },
+    {
+      "id": 7,
+      "name": "Knu Skool Mesh Shoe",
+      "description": "A Puffy 90s Style Inspired by the Past, but Built for Today. The Knu Skool is a modern interpretation of a classic 90s style, defined by its puffed up tongue and 3D-molded Sidestripe, and tied off with oversized, chunky laces. With its in-your-face profile, mesh tongue, and dramatic style details, the Knu Skool Mesh plays off of the original Old Skool while blending an icon of the past with today’s trends.",
+      "price": 80,
+      "isTrendy": false,
+      "isNew": true,
+      "forKids": false,
+      "forSkate": false,
+      "genre": "Shoe",
+      "rating": 4,
+      "color": "Blue/Multi",
+      "imgs": [
+        "/assets/products/Shoes/7/VN000CS0_BER_HERO.webp",
+        "/assets/products/Shoes/7/VN000CS0_BER_ALT1.webp",
+        "/assets/products/Shoes/7/VN000CS0_BER_ALT2.webp",
+        "/assets/products/Shoes/7/VN000CS0_BER_ALT3.webp"
+      ],
+      "sizes": [3, 4, 5, 6, 7, 7.5, 8, 9, 9.5, 10, 10.5, 11, 12, 13]
+    },
+    {
+      "id": 8,
+      "name": "AVE 2.0 Shoe",
+      "description": "Introducing the AVE 2.0, Our Most Technically Advanced Skate Shoe Ever. Anthony Van Engelen is always pushing the boundaries of skateboarding. Together, Vans and AVE have consistently delivered our most progressive skate shoes, and his latest pro model is our most uncompromised yet. Featuring Vans’ UltimateWaffle™ sole, the AVE 2.0 pulls from decades of footwear innovation to set a new standard by combining added grip and cushioning with unrivaled support and an engineered knit upper that provides a precision fit, enabling skaters to keep pushing the boundaries—just like AVE.",
+      "price": 120,
+      "isTrendy": false,
+      "isNew": true,
+      "forKids": false,
+      "forSkate": false,
+      "genre": "Shoe",
+      "rating": 4,
+      "color": "Medium Grey",
+      "imgs": [
+        "/assets/products/Shoes/8/1.webp",
+        "/assets/products/Shoes/8/2.webp",
+        "/assets/products/Shoes/8/3.webp",
+        "/assets/products/Shoes/8/4.webp"
+      ],
+      "sizes": [3, 4, 5, 6, 7, 7.5, 8, 9, 9.5, 10, 10.5, 11, 12, 13]
+    },
+    {
+      "id": 9,
+      "name": "Authentic Shoe",
+      "description": "The Heritage Shoe that Started It All. This is the Authentic—Since 1966. The Authentic is the original Vans silhouette. First introduced in 1966 and driven forward by creative culture ever since, this time-honored shoe keeps the old school vibe alive with sturdy canvas uppers and a checkerboard emboss across the front bumper. Alongside its classic low-top design and iconic rubber waffle outsole, the Authentic is a blank canvas for creativity that allows you to do your thing in your own unique way.",
+      "price": 60,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "forSkate": false,
+      "genre": "Shoe",
+      "rating": 4,
+      "color": "Check Bumper Blue",
+      "imgs": [
+        "/assets/products/Shoes/9/1.jpg",
+        "/assets/products/Shoes/9/2.webp",
+        "/assets/products/Shoes/9/3.webp",
+        "/assets/products/Shoes/9/4.webp"
+      ],
+      "sizes": [3, 4, 5, 6, 7, 7.5, 8, 9, 9.5, 10, 10.5, 11, 12, 13]
+    },
+    {
+      "id": 10,
+      "name": "MTE Checkerboard La Costa Lite Sandal",
+      "description": "A Standout Sandal Inspired by our Heritage. Inspired by Vans’ vulcanized roots, the La Costa Lite takes all of the iconic DNA from our Classics and wraps it up in a pair of ultra-comfy flip flops. From the signature hang flag to the heritage foxing line on the sidewall, this sandal has an unmistakable Vans aesthetic. Add in a lightweight UltraCush Lite waffle outsole for comfort, and you’ve got a warm-weather staple like no other.",
+      "price": 40,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "forSkate": false,
+      "genre": "Shoe",
+      "rating": 4,
+      "color": "Black/White",
+      "imgs": [
+        "/assets/products/Shoes/10/1.webp",
+        "/assets/products/Shoes/10/2.webp",
+        "/assets/products/Shoes/10/3.webp",
+        "/assets/products/Shoes/10/4.webp"
+      ],
+      "sizes": [3, 4, 5, 6, 7, 7.5, 8, 9, 9.5, 10, 10.5, 11, 12, 13]
+    },
+    {
+      "id": 11,
+      "name": "Skate Half Cab Shoe",
+      "description": "The Skate Classics: Built Extra Tough on the Inside for Skateboarding. Completely redesigned for modern skateboarding, the Skate Classics collection delivers more of what skateboarders need to enable maximum progression. A vulcanized shoe made with classic suede and canvas uppers, the Skate Half Cab gives you the iconic look you want while bringing all the performance benefits skateboarders demand.",
+      "price": 85,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "forSkate": false,
+      "genre": "Shoe",
+      "rating": 4,
+      "color": "White/Black",
+      "imgs": [
+        "/assets/products/Shoes/12/1.webp",
+        "/assets/products/Shoes/12/2.webp",
+        "/assets/products/Shoes/12/3.webp",
+        "/assets/products/Shoes/12/4.webp"
+      ],
+      "sizes": [3, 4, 5, 6, 7, 7.5, 8, 9, 9.5, 10, 10.5, 11, 12, 13]
+    },
+    {
+      "id": 12,
+      "name": "Toddler Old Skool V Shoe",
+      "description": "The Toddlers Old Skool V reimagines our iconic Sidestripe shoe by swapping traditional laces for double hook-and-loop closures. Featuring butterflies fluttering among the Sidestripes and pops of purple at the straps, this low-top style maintains its classic appeal while providing an easy, secure fit that will keep your little one comfortable all day.",
+      "price": 43,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": true,
+      "forSkate": false,
+      "genre": "Shoe",
+      "rating": 4,
+      "color": "Butterfly Kisses Black/Multi",
+      "imgs": [
+        "/assets/products/Shoes/13/1.webp",
+        "/assets/products/Shoes/13/2.webp",
+        "/assets/products/Shoes/13/3.webp",
+        "/assets/products/Shoes/13/4.webp"
+      ],
+      "sizes": [2, 2.5, 3, 4, 5, 6, 7, 8, 8.5, 9, 9.5]
+    },
+    {
+      "id": 13,
+      "name": "Toddler Sk8-Mid Reissue V Glow Shoe",
+      "description": "Inspired by the legendary Vans high-top, the Toddlers Sk8-Mid Reissue V Glow is a versatile mid-top shoe with just the right amount of ankle height and padding. Along with a familiar Sk8-Hi aesthetic, this little kid-friendly silhouette features a dinosaur print that glows in the dark and hook-and-loop closures for a secure fit that’s easy to take on and off without fuss.",
+      "price": 50,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": true,
+      "forSkate": false,
+      "genre": "Shoe",
+      "rating": 4,
+      "color": "Dino Multi/True White",
+      "imgs": [
+        "/assets/products/Shoes/11/1.webp",
+        "/assets/products/Shoes/11/2.webp",
+        "/assets/products/Shoes/11/3.webp",
+        "/assets/products/Shoes/11/4.webp"
+      ],
+      "sizes": [2, 2.5, 3, 4, 5, 6, 7, 8, 8.5, 9, 9.5]
+    },
+    {
+      "id": 14,
+      "name": "Skate Half Cab Shoe",
+      "description": "The Skate Classics: Built Extra Tough on the Inside for Skateboarding. Completely redesigned for modern skateboarding, the Skate Classics collection delivers more of what skateboarders need to enable maximum progression. A vulcanized shoe made with classic suede and canvas uppers, the Skate Half Cab gives you the iconic look you want while bringing all the performance benefits skateboarders demand.",
+      "price": 85,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Shoe",
+      "rating": 4,
+      "color": "Navy/Burgundy",
+      "imgs": [
+        "/assets/products/Shoes/15/1.webp",
+        "/assets/products/Shoes/15/2.webp",
+        "/assets/products/Shoes/15/3.webp",
+        "/assets/products/Shoes/15/4.webp"
+      ],
+      "sizes": [3, 4, 5, 6, 7, 7.5, 8, 9, 9.5, 10, 10.5, 11, 12, 13],
+      "forSkate": false
+    },
+    {
+      "id": 15,
+      "name": "Kids Sk8-Hi Zip Shoe",
+      "description": "Our Legendary Sk8-Hi with Heel Zippers for Easy In and Out. The Sk8-Hi was a game changer as the first high-top skate shoe to break onto the scene in 1978. But the innovation didn’t stop there. Combining this legendary silhouette with a colorful floral print and a zipper entry at the heel for increased versatility, the Kids Sk8-Hi Zip blends bold design with easy access for an iconic style like no other.",
+      "price": 80,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": true,
+      "genre": "Shoe",
+      "rating": 4,
+      "color": "Ditsy Floral Black/Multi",
+      "imgs": [
+        "/assets/products/Shoes/16/1.webp",
+        "/assets/products/Shoes/16/2.webp",
+        "/assets/products/Shoes/16/3.webp",
+        "/assets/products/Shoes/16/4.webp"
+      ],
+      "sizes": [2, 2.5, 3, 4, 5, 6, 7, 8, 8.5, 9, 9.5],
+      "forSkate": false
+    },
+    {
+      "id": 16,
+      "name": "Startle Backpack",
+      "description": "The Startle Backpack features one large main compartment with a laptop sleeve (fits most 15-inch laptops), an internal organizer, and stretch mesh water bottle pockets. It also includes external zip pockets and ergonomic padded shoulder straps.",
+      "price": 45,
+      "isTrendy": true,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Backpack",
+      "rating": 4,
+      "color": "Black",
+      "imgs": [
+        "/assets/products/Backpacks/1/1.webp",
+        "/assets/products/Backpacks/1/2.webp",
+        "/assets/products/Backpacks/1/3.webp",
+        "/assets/products/Backpacks/1/4.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": false
+    },
+    {
+      "id": 17,
+      "name": "Kids Old Skool Grom Backpack",
+      "description": "A classic backpack with plenty of Vans DNA, the Kids Old Skool Grom Backpack has a two-pocket design featuring a slip-in organizer to keep your important items neatly arranged and a side water bottle pocket for easy hydration. To add more style, the classic backpack comes in a familiar checkerboard pattern with melting smiley faces and an old school Vans® logo.",
+      "price": 30,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": true,
+      "genre": "Backpack",
+      "rating": 4,
+      "color": "Lemon Chrome",
+      "imgs": [
+        "/assets/products/Backpacks/2/1.webp",
+        "/assets/products/Backpacks/2/2.webp",
+        "/assets/products/Backpacks/2/3.webp",
+        "/assets/products/Backpacks/2/4.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": true
+    },
+    {
+      "id": 18,
+      "name": "Field Trippin Rucksack Backpack",
+      "description": "Outdoor adventure is what inspired the Field Trippin Rucksack Backpack. This classic rucksack bag features a large main compartment with drawstring and flap closure, external zip closure pockets for added storage, adjustable padded shoulder straps for added comfort, and leather Vans® patch for an added vintage look.",
+      "price": 65,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Backpack",
+      "rating": 3,
+      "color": "Black/White",
+      "imgs": [
+        "/assets/products/Backpacks/3/1.webp",
+        "/assets/products/Backpacks/3/2.webp",
+        "/assets/products/Backpacks/3/3.webp",
+        "/assets/products/Backpacks/3/4.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": false
+    },
+    {
+      "id": 19,
+      "name": "Startle Backpack",
+      "description": "The Startle Backpack can carry everything you need to tackle your day. It features a large main compartment with a laptop sleeve, an internal organizer to keep you on point, and stretch mesh water bottle pockets so you can stay hydrated. Ergonomic padded shoulder straps make for an extra comfortable carry.",
+      "price": 45,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Backpack",
+      "rating": 2,
+      "color": "Pesto",
+      "imgs": [
+        "/assets/products/Backpacks/4/1.webp",
+        "/assets/products/Backpacks/4/2.webp",
+        "/assets/products/Backpacks/4/3.webp",
+        "/assets/products/Backpacks/4/4.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": false
+    },
+    {
+      "id": 20,
+      "name": "Old Skool Check Backpack",
+      "description": "The Old Skool Check Backpack is a favorite for good reason. This classic backpack features an all-purpose, two pocket design with an organizer in the front, a slip-in interior pocket, laptop sleeve that fits most 15'' laptops, and water bottle pocket. A black tonal allover checker pattern and heritage details like the woven logo label bring an touch to this iconic design in a way only Vans can do.",
+      "price": 45,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Backpack",
+      "rating": 4,
+      "color": "Black",
+      "imgs": [
+        "/assets/products/Backpacks/5/1.webp",
+        "/assets/products/Backpacks/5/2.webp",
+        "/assets/products/Backpacks/5/3.webp",
+        "/assets/products/Backpacks/5/4.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": true
+    },
+    {
+      "id": 21,
+      "name": "Realm Backpack",
+      "description": "The Realm Backpack is a recycled polyester two-pocket backpack with a zippered main compartment, an interior laptop sleeve, a front organization pocket, adjustable padded straps, and debossed lining at the interior back panel.",
+      "price": 29.95,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Backpack",
+      "rating": 5,
+      "color": "Rose Smoke",
+      "imgs": [
+        "/assets/products/Backpacks/6/1.webp",
+        "/assets/products/Backpacks/6/2.webp",
+        "/assets/products/Backpacks/6/3.webp",
+        "/assets/products/Backpacks/6/4.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": false
+    },
+    {
+      "id": 22,
+      "name": "Kids Old Skool Grom Backpack",
+      "description": "A classic backpack with plenty of Vans DNA, the Kids Old Skool Grom Backpack has a two-pocket design featuring a slip-in organizer to keep your important items neatly arranged and a side water bottle pocket for easy hydration. To add more style, the classic backpack comes in black with a colorful floral pattern and an old school Vans® logo.",
+      "price": 35,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": true,
+      "genre": "Backpack",
+      "rating": 4,
+      "color": "Black/Lavender Mist",
+      "imgs": [
+        "/assets/products/Backpacks/7/1.webp",
+        "/assets/products/Backpacks/7/2.webp",
+        "/assets/products/Backpacks/7/3.webp",
+        "/assets/products/Backpacks/7/4.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": false
+    },
+    {
+      "id": 23,
+      "name": "Old Skool H2O Backpack",
+      "description": "The Old Skool H2O Backpack is a favorite for good reason. This classic backpack features an all-purpose, two pocket design with an organizer in the front, a slip-in interior pocket, laptop sleeve that fits most 15'' laptops, and a side water bottle pocket. Heritage details like the woven logo label bring an “Off The Wall” touch to this iconic design.",
+      "price": 45,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Backpack",
+      "rating": 4,
+      "color": "Dress Blues/White",
+      "imgs": [
+        "/assets/products/Backpacks/8/1.webp",
+        "/assets/products/Backpacks/8/2.webp",
+        "/assets/products/Backpacks/8/3.webp",
+        "/assets/products/Backpacks/8/4.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": false
+    },
+    {
+      "id": 24,
+      "name": "Old Skool Cinch Backpack",
+      "description": "Simple but sturdy, the Old Skool Cinch Backpack is tough enough for any day and any skate sessions. Made with CORDURA® fabrics that are recognized for their long-lasting durability and resistance to abrasion, tearing, and scuffs, this upgraded cinch bag comes equipped with a padded laptop compartment that lets you safely store your device, a stretch water bottle pocket on the side, adjustable shoulder straps, and a cord lock to ensure all your goods stay in place.",
+      "price": 55,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Backpack",
+      "rating": 4,
+      "color": "Elm",
+      "imgs": [
+        "/assets/products/Backpacks/9/1.webp",
+        "/assets/products/Backpacks/9/2.webp",
+        "/assets/products/Backpacks/9/3.webp",
+        "/assets/products/Backpacks/9/4.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": false
+    },
+    {
+      "id": 25,
+      "name": "Old Skool Sport Backpack",
+      "description": "The Old Skool Sport Backpack is ready for your next adventure. This classic backpack features an all-purpose, two pocket design with an organizer in the front, laptop sleeve that fits most 15'' laptops, and a side water bottle pocket. The contrasting suede bottom and heritage details like the woven logo label bring added branding to this iconic design.",
+      "price": 55,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Backpack",
+      "rating": 4,
+      "color": "Gray Mist",
+      "imgs": [
+        "/assets/products/Backpacks/10/1.webp",
+        "/assets/products/Backpacks/10/2.webp",
+        "/assets/products/Backpacks/10/3.webp",
+        "/assets/products/Backpacks/10/4.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": false
+    },
+    {
+      "id": 26,
+      "name": "Kids Old Skool Grom Backpack",
+      "description": "A classic backpack with plenty of Vans DNA, the Kids Old Skool Grom Backpack has a two-pocket design featuring a slip-in organizer to keep your important items neatly arranged and a side water bottle pocket for easy hydration. To add more style, the classic backpack comes in a muted lavender with illustrated details and an old school Vans® logo.",
+      "price": 35,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Backpack",
+      "rating": 3,
+      "color": "Lavender Mist",
+      "imgs": [
+        "/assets/products/Backpacks/11/1.webp",
+        "/assets/products/Backpacks/11/2.webp",
+        "/assets/products/Backpacks/11/3.webp",
+        "/assets/products/Backpacks/11/4.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": false
+    },
+    {
+      "id": 27,
+      "name": "Old Skool Backpack",
+      "description": "The Old Skool Backpack is a favorite for good reason. This classic backpack features an all-purpose, two pocket design with an organizer in the front, a slip-in interior pocket, laptop sleeve that fits most 15'' laptops, and a side water bottle pocket. Fun fruit art and heritage details like the woven logo label bring added branding to this iconic design.",
+      "price": 45,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Backpack",
+      "rating": 4,
+      "color": "Dusty Blue",
+      "imgs": [
+        "/assets/products/Backpacks/12/1.webp",
+        "/assets/products/Backpacks/12/2.webp",
+        "/assets/products/Backpacks/12/3.webp",
+        "/assets/products/Backpacks/12/4.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": false
+    },
+    {
+      "id": 28,
+      "name": "Low Key Mini Backpack",
+      "description": "The Low Key Mini Backpack is perfect for you every day carry. Featuring a zip close main compartment and exterior pocket, this bag also has top web handles and adjustable shoulder straps for whether you decide to grab-and-go or sling it over-the-shoulder.",
+      "price": 40,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Backpack",
+      "rating": 4,
+      "color": "Black/Natural",
+      "imgs": [
+        "/assets/products/Backpacks/13/1.webp",
+        "/assets/products/Backpacks/13/2.webp",
+        "/assets/products/Backpacks/13/3.webp",
+        "/assets/products/Backpacks/13/4.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": false
+    },
+    {
+      "id": 29,
+      "name": "Vans Original Backpack",
+      "description": "The Vans Original Backpack is a no-frills bag that is rugged and ready for anything you can throw at it. Made with fabrics that are recognized for their long-lasting durability and resistance to abrasion, tearing, and scuffs, this backpack comes equipped with a padded tablet compartment that lets you safely store your device, a waffle mesh back panel for comfort, and a stretch water bottle pocket on the side.",
+      "price": 75,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Backpack",
+      "rating": 3,
+      "color": "Black",
+      "imgs": [
+        "/assets/products/Backpacks/14/1.webp",
+        "/assets/products/Backpacks/14/2.jpg",
+        "/assets/products/Backpacks/14/3.webp",
+        "/assets/products/Backpacks/14/4.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": false
+    },
+    {
+      "id": 30,
+      "name": "Low Key Mini Backpack",
+      "description": "The Low Key Mini Backpack is perfect for you every day carry. Featuring a zip close main compartment and exterior pocket, this bag also has top web handles and adjustable shoulder straps for whether you decide to grab-and-go or sling it over-the-shoulder.",
+      "price": 40,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Backpack",
+      "rating": 4,
+      "color": "Black",
+      "imgs": [
+        "/assets/products/Backpacks/15/1.webp",
+        "/assets/products/Backpacks/15/2.webp",
+        "/assets/products/Backpacks/15/3.webp",
+        "/assets/products/Backpacks/15/4.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": false
+    },
+    {
+      "id": 31,
+      "name": "Data System Strapback Hat",
+      "description": "The Data System Hat is a 5-panel cap made of durable cotton, featuring a strap back closure and direct embroidery on the side.",
+      "price": 28,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Accessories",
+      "rating": 3,
+      "color": "Red",
+      "imgs": [
+        "/assets/products/accessories/1/1.webp",
+        "/assets/products/accessories/1/2.webp",
+        "/assets/products/accessories/1/3.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": true
+    },
+    {
+      "id": 32,
+      "name": "Half Box Curved Bill Jockey Hat",
+      "description": "The Half Box Curved Bill Jockey Hat is a 6-panel jockey hat featuring direct logo embroidery of the the Vans® logo front and center for a fashionable statement.",
+      "price": 40,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Accessories",
+      "rating": 4,
+      "color": "Dress Blues",
+      "imgs": [
+        "/assets/products/accessories/2/1.webp",
+        "/assets/products/accessories/2/2.webp",
+        "/assets/products/accessories/2/3.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": true
+    },
+    {
+      "id": 33,
+      "name": "Lil Pergs Tote Bag",
+      "description": "The Lil Pergs Tote Bag is small but mighty in signature Vans® style. Featuring a secure zip closure and a removable, adjustable shoulder strap, this mini tote boldly stands out in eye-catching red.",
+      "price": 35,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Accessories",
+      "rating": 4,
+      "color": "Racing Red",
+      "imgs": [
+        "/assets/products/accessories/3/1.webp",
+        "/assets/products/accessories/3/2.webp",
+        "/assets/products/accessories/3/3.webp",
+        "/assets/products/accessories/3/4.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": false
+    },
+    {
+      "id": 34,
+      "name": "Pergs DX Tote Bag",
+      "description": "The Pergs DX Tote Bag offers the best parts of fashion and function. This tote has a main compartment with a padded laptop sleeve and secure zip closure, topped off with a stylish print so you can express your true self.",
+      "price": 75,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Accessories",
+      "rating": 4,
+      "color": "Bungee Cord/Turkish Coffee",
+      "imgs": [
+        "/assets/products/accessories/4/1.webp",
+        "/assets/products/accessories/4/2.webp",
+        "/assets/products/accessories/4/3.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": false
+    },
+    {
+      "id": 35,
+      "name": "Vans Original Crew Sock",
+      "description": "The Vans Original Crew Sock is a comfortable crew sock made with a breathable fabric blend featuring a Vans® logo detail to suit your personal style.",
+      "price": 15,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Accessories",
+      "rating": 4,
+      "color": "Black",
+      "imgs": [
+        "/assets/products/accessories/5/1.jpg",
+        "/assets/products/accessories/5/2.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": true
+    },
+    {
+      "id": 36,
+      "name": "Property Of Low Unstructured Hat",
+      "description": "The Property Of Low Unstructured Hat is a 5-panel cap featuring contrast details and a bold embroidered Vans® logo on the front.",
+      "price": 28,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Accessories",
+      "rating": 3,
+      "color": "Verdant Green",
+      "imgs": [
+        "/assets/products/accessories/6/1.webp",
+        "/assets/products/accessories/6/2.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": false
+    },
+    {
+      "id": 37,
+      "name": "Got It Together Shoulder Bag",
+      "description": "The Got It Together Shoulder Bag is a classic shoulder bag ideal for easily carrying the must-haves you need for your day-to-day. Made with durable cotton, it features a sturdy zip closure, both an interior and exterior slip-in pocket, and an adjustable shoulder strap.",
+      "price": 55,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Accessories",
+      "rating": 4,
+      "color": "Marshmallow",
+      "imgs": [
+        "/assets/products/accessories/7/1.webp",
+        "/assets/products/accessories/7/2.webp",
+        "/assets/products/accessories/7/3.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": false
+    },
+    {
+      "id": 38,
+      "name": "Got It Together Purse",
+      "description": "The Got It Together Purse is a compact cross-body bag ideal for easily carrying the must-haves you need for your day-to-day. Made with durable cotton, it features a sturdy zip closure, both a exterior slip-in pocket, and an adjustable shoulder strap.",
+      "price": 45,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Accessories",
+      "rating": 4,
+      "color": "Black",
+      "imgs": [
+        "/assets/products/accessories/8/1.webp",
+        "/assets/products/accessories/8/2.jpg",
+        "/assets/products/accessories/8/3.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": false
+    },
+    {
+      "id": 39,
+      "name": "Vans Knit Bucket Hat",
+      "description": "A warm twist on a wardrobe classic, the Vans Knit Bucket Hat features a knit blend with a clamp label showcasing the Vans® logo.",
+      "price": 20,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Accessories",
+      "rating": 4,
+      "color": "Carnelian",
+      "imgs": [
+        "/assets/products/accessories/9/1.webp",
+        "/assets/products/accessories/9/2.webp",
+        "/assets/products/accessories/9/3.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": true
+    },
+    {
+      "id": 40,
+      "name": "Kids Essentials Curved Bill Jockey Hat",
+      "description": "The Kids Essentials Curved Bill Jockey Hat is a 6-panel cap with a curved bill and features embroidered floral details on the front for added style.",
+      "price": 20,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Accessories",
+      "rating": 4,
+      "color": "Lavender Mist",
+      "imgs": [
+        "/assets/products/accessories/10/1.webp",
+        "/assets/products/accessories/10/2.webp",
+        "/assets/products/accessories/10/3.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": false
+    },
+    {
+      "id": 41,
+      "name": "Gemini Sunglasses",
+      "description": "Forget the shade, you'll be made for the spotlight in the Gemini Sunglasses. The sunglass has a retro vintage design and rimless lens with high UV protection. Stash 'em in the convenient cinch sunglass pouch once you ditch the paps.",
+      "price": 18,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Accessories",
+      "rating": 4,
+      "color": "Golden Glow",
+      "imgs": [
+        "/assets/products/accessories/11/1.webp",
+        "/assets/products/accessories/11/2.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": true
+    },
+    {
+      "id": 42,
+      "name": "66 Sunglasses",
+      "description": "A classic retro square frame shape elevates the 66 Sunglasses with vintage-inspired style, boasting solid sun protection and a cinch sunglass pouch for easy stash and carry.",
+      "price": 55,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Accessories",
+      "rating": 2,
+      "color": "Tortoise",
+      "imgs": [
+        "/assets/products/accessories/12/1.jpg",
+        "/assets/products/accessories/12/2.jpg"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": false
+    },
+    {
+      "id": 43,
+      "name": "Kickin It Crew Sock",
+      "description": "Kickin It Crew Sock",
+      "price": 14,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Accessories",
+      "rating": 4,
+      "color": "Black",
+      "imgs": [
+        "/assets/products/accessories/13/1.jpg",
+        "/assets/products/accessories/13/2.jpg"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": false
+    },
+    {
+      "id": 44,
+      "name": "Old Skool Pencil Pouch",
+      "description": "Keep your school supplies in an organized fashion with the Old Skool Pencil Pouch, in a not-so-basic black with a colorful floral pattern and the classic Vans® logo on the front.",
+      "price": 10,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Accessories",
+      "rating": 4,
+      "color": "Black/Lavender Mist",
+      "imgs": [
+        "/assets/products/accessories/14/1.webp",
+        "/assets/products/accessories/14/2.webp",
+        "/assets/products/accessories/14/3.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": false
+    },
+    {
+      "id": 45,
+      "name": "Old Skool Pencil Pouch",
+      "description": "Keep your school supplies in an organized fashion with the Old Skool Pencil Pouch, featuring an eye-catching cheetah print and the classic Vans® logo on the front.",
+      "price": 15,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Accessories",
+      "rating": 2,
+      "color": "Lambs Wool",
+      "imgs": [
+        "/assets/products/accessories/15/1.webp",
+        "/assets/products/accessories/15/2.webp",
+        "/assets/products/accessories/15/3.webp"
+      ],
+      "sizes": ["One Size"],
+      "forSkate": false
+    },
+
+    {
+      "id": 46,
+      "name": "Racoon Sign T-Shirt",
+      "description": "Rock your own style in the Racoon Sign T-Shirt, a classic fit short sleeve T-shirt made of heavyweight ringspun cotton, sporting screenprinted graphics that make a bold statement.",
+      "price": 25,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Clothing",
+      "rating": 4.5,
+      "color": "Black",
+      "imgs": [
+        "/assets/products/Clothing/1/1.webp",
+        "/assets/products/Clothing/1/2.jpg",
+        "/assets/products/Clothing/1/3.webp",
+        "/assets/products/Clothing/1/4.webp"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "forSkate": false
+    },
+    {
+      "id": 47,
+      "name": "Syd Sweater Vest",
+      "description": "A classic piece made in singular Vans® style, the Syd Sweater Vest has a v-neck neckline, ribbed hems, and an allover acid wash to help you stand out from the crowd.",
+      "price": 55,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Clothing",
+      "rating": 4.5,
+      "color": "Gray Mist",
+      "imgs": [
+        "/assets/products/Clothing/2/1.webp",
+        "/assets/products/Clothing/2/2.webp",
+        "/assets/products/Clothing/2/3.webp",
+        "/assets/products/Clothing/2/4.jpg"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "forSkate": false
+    },
+    {
+      "id": 48,
+      "name": "Stadium French Terry Loose Crew Sweatshirt",
+      "description": "The Stadium French Terry Crew Sweatshirt is a long sleeve crewneck sweatshirt made with a comfortable heavier cotton-blend. A screen print of a bold Vans® logo in the center of the chest brings an added sense of style.",
+      "price": 35,
+      "isTrendy": false,
+      "isNew": true,
+      "forKids": false,
+      "genre": "Clothing",
+      "rating": 4.5,
+      "color": "Bluestone",
+      "imgs": [
+        "/assets/products/Clothing/3/1.webp",
+        "/assets/products/Clothing/3/2.webp",
+        "/assets/products/Clothing/3/3.webp",
+        "/assets/products/Clothing/3/4.webp"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "forSkate": false
+    },
+    {
+      "id": 49,
+      "name": "Kids Essentials T-Shirt",
+      "description": "The Kids Essentials T-Shirt is a short sleeve crew neck T-shirt made from a heavier weight cotton featuring a screenprinted flaming V graphic on the chest, and ",
+      "price": 20,
+      "isTrendy": false,
+      "isNew": true,
+      "forKids": true,
+      "genre": "Clothing",
+      "rating": 4.5,
+      "color": "White",
+      "imgs": [
+        "/assets/products/Clothing/4/1.webp",
+        "/assets/products/Clothing/4/2.webp",
+        "/assets/products/Clothing/4/3.webp",
+        "/assets/products/Clothing/4/4.webp"
+      ],
+      "sizes": ["XS - Kids", "S - Kids", "M - Kids", "L - Kids"],
+      "forSkate": false
+    },
+    {
+      "id": 50,
+      "name": "Little Kids Essentials T-Shirt",
+      "description": "The Little Kids Essentials T-Shirt is a short sleeve crewneck T-shirt made from a heavier weight cotton. It features a Vans® V on the front and a collage of graphics on the back, both in puff ink.",
+      "price": 25,
+      "isTrendy": false,
+      "isNew": true,
+      "forKids": true,
+      "genre": "Clothing",
+      "rating": 4.5,
+      "color": "Lavender Mist",
+      "imgs": [
+        "/assets/products/Clothing/5/1.webp",
+        "/assets/products/Clothing/5/2.webp",
+        "/assets/products/Clothing/5/3.webp"
+      ],
+      "sizes": ["XS - Kids", "S - Kids", "M - Kids"],
+      "forSkate": false
+    },
+    {
+      "id": 51,
+      "name": "Reggie T-Shirt",
+      "description": "The Reggie T-Shirt is a classic fit, short sleeve crew neck T-shirt made of breathable cotton with a screenprinted graphic on the front.",
+      "price": 35,
+      "isTrendy": false,
+      "isNew": true,
+      "forKids": false,
+      "genre": "Clothing",
+      "rating": 4,
+      "color": "Black",
+      "imgs": [
+        "/assets/products/Clothing/6/1.webp",
+        "/assets/products/Clothing/6/2.webp",
+        "/assets/products/Clothing/6/3.webp",
+        "/assets/products/Clothing/6/4.webp"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "forSkate": true
+    },
+    {
+      "id": 52,
+      "name": "Montwood Zip Flannel Long Sleeve Shirt",
+      "description": "Face the fall chill in style. Slip into the Montwood Zip Flannel Shirt, a cozy soft long-sleeve top with a zip front and workwear-inspired pockets perfect for warming hands. A woven label brings that subtle Vans® signature style you know and love.",
+      "price": 77,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Clothing",
+      "rating": 4.5,
+      "color": "Blue",
+      "imgs": [
+        "/assets/products/Clothing/7/1.webp",
+        "/assets/products/Clothing/7/2.webp",
+        "/assets/products/Clothing/7/3.webp",
+        "/assets/products/Clothing/7/4.webp"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "forSkate": false
+    },
+    {
+      "id": 53,
+      "name": "Break Made T-Shirt",
+      "description": "The Break Made T-Shirt is a classic fit, short sleeve crew neck T-shirt made of breathable cotton with a screenprinted Vans® logo graphic on the front and back.",
+      "price": 35,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Clothing",
+      "rating": 4,
+      "color": "Black",
+      "imgs": [
+        "/assets/products/Clothing/8/1.webp",
+        "/assets/products/Clothing/8/2.webp",
+        "/assets/products/Clothing/8/3.webp",
+        "/assets/products/Clothing/8/4.webp"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "forSkate": true
+    },
+    {
+      "id": 54,
+      "name": "Westfield Shacket",
+      "description": "With plenty of pockets for style and stashing stuff, the Westfield Shacket melds the best parts of a shirt and jacket to help you ease into colder weather. Featuring corduroy fabrication made of a stretch cotton with a wash dye, the loose fit allows plenty of room for maximum coziness.",
+      "price": 85,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Clothing",
+      "rating": 4.5,
+      "color": "Dress Blues",
+      "imgs": [
+        "/assets/products/Clothing/9/1.webp",
+        "/assets/products/Clothing/9/2.webp",
+        "/assets/products/Clothing/9/3.webp",
+        "/assets/products/Clothing/9/4.webp"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "forSkate": false
+    },
+    {
+      "id": 55,
+      "name": "Wade Checkerboard Woven Shirt",
+      "description": "Rock our iconic checkerboard print in an all new hue in the Wade Checkerboard Woven Shirt, a breezy cotton collared buttondown in a looser fit for comfort and movability. A patch pocket on the chest tops off this top in style.",
+      "price": 55,
+      "isTrendy": false,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Clothing",
+      "rating": 4.5,
+      "color": "Dress Blues/White",
+      "imgs": [
+        "/assets/products/Clothing/10/1.webp",
+        "/assets/products/Clothing/10/2.webp",
+        "/assets/products/Clothing/10/3.webp",
+        "/assets/products/Clothing/10/4.jpg"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "forSkate": false
+    },
+    {
+      "id": 56,
+      "name": "Canfield Checkerboard Cardigan",
+      "description": "Keep cozy on cooler days with the Canfield Checkerboard Cardigan. This fuzzy faux mohair eyelash v-neck cardigan features a buttondown front, front patch pockets, and a loose fit sporting a classic Vans® jacquard checkerboard pattern.",
+      "price": 115,
+      "isTrendy": true,
+      "isNew": false,
+      "forKids": false,
+      "genre": "Clothing",
+      "rating": 5,
+      "color": "Bungee Cord/Brown Sugar",
+      "imgs": [
+        "/assets/products/Clothing/11/1.webp",
+        "/assets/products/Clothing/11/2.webp",
+        "/assets/products/Clothing/11/3.webp",
+        "/assets/products/Clothing/11/4.webp"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "forSkate": false
+    },
+    {
+      "id": 57,
+      "name": "Houser Shirt",
+      "description": "Simple and stunning. The Houser Buttondown Shirt is a short sleeve Oxford shirt featuring a full buttondown closure that looks good wherever you are, whether you're on your skateboard or in a meeting.",
+      "price": 35,
+      "isTrendy": false,
+      "isNew": true,
+      "forKids": false,
+      "genre": "Clothing",
+      "rating": 4,
+      "color": "Pesto",
+      "imgs": [
+        "/assets/products/Clothing/12/1.webp",
+        "/assets/products/Clothing/12/2.webp",
+        "/assets/products/Clothing/12/3.jpg",
+        "/assets/products/Clothing/12/4.webp"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "forSkate": false
+    },
+    {
+      "id": 58,
+      "name": "AVE Skate Bomber Jacket",
+      "description": "The classic flight bomber jacket gets a fashion upgrade with the AVE Skate Bomber Jacket, a wardrobe must have with reversible styling to suit your changing moods. This bomber features a satin side and a quilted side, with Vans® Skateboarding labeling for added verve.",
+      "price": 150,
+      "isTrendy": false,
+      "isNew": true,
+      "forKids": false,
+      "genre": "Clothing",
+      "rating": 3.5,
+      "color": "Black",
+      "imgs": [
+        "/assets/products/Clothing/13/1.webp",
+        "/assets/products/Clothing/13/2.webp",
+        "/assets/products/Clothing/13/3.webp",
+        "/assets/products/Clothing/13/4.webp"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "forSkate": true
+    },
+    {
+      "id": 59,
+      "name": "AVE T-Shirt",
+      "description": "The AVE T-Shirt is a loose fit, short sleeve crewneck T-shirt made of cotton, sporting a screenprinted Vans® graphic on the front and back. It also features 5-Checkerboard embroidery detail and Vans® Skateboarding labeling for added branding.",
+      "price": 25,
+      "isTrendy": false,
+      "isNew": true,
+      "forKids": false,
+      "genre": "Clothing",
+      "rating": 3,
+      "color": "white",
+      "imgs": [
+        "/assets/products/Clothing/14/1.webp",
+        "/assets/products/Clothing/14/2.webp",
+        "/assets/products/Clothing/14/3.webp",
+        "/assets/products/Clothing/14/4.webp"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "forSkate": false
+    },
+    {
+      "id": 60,
+      "name": "Talbot Reversible Vest",
+      "description": "Can't make up your mind? Choose the Talbot Reversible Vest. Made of reversible cotton canvas with woven flannel, choose from not-so-basic black or a blue buffalo check. Either way you wear it, there's a ribbed collar, center exposed zipper, patch pockets, and a woven label at the hem.",
+      "price": 90,
+      "isTrendy": true,
+      "isNew": true,
+      "forKids": false,
+      "genre": "Clothing",
+      "rating": 5,
+      "color": "Black/Navy",
+      "imgs": [
+        "/assets/products/Clothing/15/1.webp",
+        "/assets/products/Clothing/15/2.webp",
+        "/assets/products/Clothing/15/3.webp",
+        "/assets/products/Clothing/15/4.webp"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "forSkate": false
+    },
+    {
+      "id": 61,
+      "name": "Codey Utility Coat",
+      "description": "Made for work, play, or your general day-to-day, the Codey Utility Coat is made of piece dyed rugged cotton canvas, with ample pocket space to stash all your essentials.",
+      "price": 75,
+      "isTrendy": false,
+      "isNew": true,
+      "forKids": false,
+      "genre": "Clothing",
+      "rating": 5,
+      "color": "Elm",
+      "imgs": [
+        "/assets/products/Clothing/16/1.webp",
+        "/assets/products/Clothing/16/2.webp",
+        "/assets/products/Clothing/16/3.webp",
+        "/assets/products/Clothing/16/4.webp"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "forSkate": false
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+.product-preview-container {
+  width: 100%;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+/* .product-preview-container img {
+  width: 250px;
+} */
+.product-preview-container span {
+  width: fit-content;
+}
+
+.product-link-2 {
+  text-decoration: none;
+  color: black;
+  width: 19%;
+}
+
+.product-link {
+  color: black;
+}
+
+.trendy-item {
+  text-decoration: none;
+  color: black;
+  width: 19%;
+}
+@media (max-width: 750px) {
+  .product-link {
+    width: 30%;
+  }
+
+  .trendy-item {
+    width: 30%;
+  }
+}

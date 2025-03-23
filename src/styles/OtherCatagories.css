@@ -1,0 +1,41 @@
+.Other-Catagories-container {
+  display: grid;
+  grid-template-columns: 45% 45%;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 4rem;
+}
+
+.other-catagory-element-container {
+  gap: 0.3rem;
+  text-decoration: none;
+  color: black;
+}
+
+.other-catagory-element-container img {
+  flex: 1;
+  object-fit: cover;
+}
+
+.other-catagory-element-container span {
+  font-weight: 500;
+  font-size: 1.5rem;
+  width: fit-content;
+}
+
+.other-catagory-element-container button {
+  width: fit-content;
+  background-color: black;
+  color: white;
+  font-size: 0.9rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 0.2rem;
+}
+
+@media (max-width: 750px) {
+  .Other-Catagories-container {
+    grid-template-columns: 100%;
+    grid-row: 1fr 1fr;
+    margin-top: 2rem;
+  }
+}
