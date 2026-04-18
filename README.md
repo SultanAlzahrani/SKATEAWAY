@@ -6,4 +6,4 @@ The goal is to build an appealing front end that is user friendly and stylish.
 
 - Site can be viewed live at [SKATEAWAY](https://skateaway.vercel.app/)
 
-Notify my if the link is down or try running it locally. 
+Notify me if the link is down or try running it locally. 
